@@ -7,7 +7,7 @@
 //                3. MissingAnalyzer     - count values in [0,999] absent from data
 //                4. SearchAnalyzer      - binary-search 100 random keys; report hits
 //
-// Students: Matthew Maniscalco, Lebon Harelimana, Ignacio Rodriguez
+// Students: Matthew Maniscalco, Lebon Harelimana
 // 
 // =============================================================================
 
