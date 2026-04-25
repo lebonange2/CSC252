@@ -1,0 +1,39 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache/options
+.vscode/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Files built by Visual Studio
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.log
+*.iobj
+*.ipdb
+*.idb
+*.lastbuildstate
+
+# NuGet Packages
+*.nupkg
+packages/
